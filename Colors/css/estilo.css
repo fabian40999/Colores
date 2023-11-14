@@ -1,0 +1,132 @@
+#h1c1{
+    font-size: 1.05rem;
+    color: blue;
+   
+}
+
+#h1c2{
+    font-size: 1.05rem;
+    
+    color: #0000ff;
+    
+}
+
+#h1c3{
+    font-size: 1.05rem;
+   
+   
+    color: hsl(240, 100%, 50%);
+}
+
+
+#h2c1{
+    font-size: 1.25rem;
+    color: rgb(255, 0, 0);
+   
+}
+
+#h2c2{
+    font-size: 1.25rem;
+    
+    color: #ff0000;
+    
+}
+
+#h2c3{
+    font-size: 1.25rem;
+   
+   
+    color: hsl(0, 100%, 50%);
+}
+
+#h3c1{
+    font-size: 1.5;
+    color: rgb(0, 255, 30);
+}
+
+#h3c2{
+    font-size: 1.5;
+    color: #00ff1e;
+}
+
+#h3c3{
+    font-size: 1.5;
+    color: hsl(127, 100%, 50%);
+}
+
+
+#h4c1{
+    font-size: 1.75rem;
+    color: rgb(255, 251, 0);
+}
+
+#h4c2{
+    font-size: 1.75rem;
+    color: #fffb00;
+}
+
+
+#h4c3{
+    font-size: 1.75rem;
+    color: hsl(59, 100%, 50%);
+}
+
+#h5c1{
+    font-size: 2rem;
+    color: rgb(255, 0, 195);
+}
+
+#h5c2{
+    font-size: 2rem;
+    color: #ff00c3;
+}
+
+
+#h5c3{
+    font-size: 2rem;
+    color: hsl(314, 100%, 50%);
+}
+
+#h6c1{
+    font-size: 2.5rem;
+    color: rgb(0, 157, 255);
+}
+
+#h6c2{
+    font-size: 2.5rem;
+    color: #009dff;
+}
+
+
+#h6c3{
+    font-size: 2.5rem;
+    color: hsl(203, 100%, 50%);
+}
+
+
+
+
+
+#text-container{
+    font-size: 1.5em;
+}
+
+#uno{
+    width: 25%;
+}
+
+#dos{
+    width: 18.7em;
+}
+#tres{
+    width: 299px;
+}
+
+#contenedor{
+    
+    font-size: 1em;
+    margin-bottom: .5em;
+    
+}
+
+
